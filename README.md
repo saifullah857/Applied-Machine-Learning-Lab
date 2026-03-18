@@ -56,7 +56,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Applied-Machine-Learning-Lab
    ```
 3. Launch Jupyter Notebook or open the files directly in VS Code:
    ```bash
