@@ -52,7 +52,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 ### Installation & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone [https://github.com/saifullah857/Applied-Machine-Learning-Lab.git]
    ```
 2. Navigate to the project directory:
    ```bash
