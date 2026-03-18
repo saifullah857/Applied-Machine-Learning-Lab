@@ -1,8 +1,4 @@
-Here is a professional and highly informative `README.md` file tailored for your machine learning repository. You can copy the code block below and paste it directly into your VS Code `README.md` file. 
 
-It is structured to showcase your understanding of both high-level libraries (Scikit-Learn) and low-level algorithmic mechanics (building from scratch), which is excellent for an AI/ML engineering portfolio.
-
-```markdown
 # 🚀 Machine Learning Algorithms & Implementations
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
